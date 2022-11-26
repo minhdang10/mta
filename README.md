@@ -1,6 +1,6 @@
 # MTA Access-A-Ride Trip Analysis
 
-### Recommend Solutions for MTA AAR Service Using Existing Tabular Data
+### Recommend Solutions for MTA AAR Service Using Tabular Data
 
 #### Tech stack: Python
 
